@@ -26,6 +26,6 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api?username=SaiharshithaUdutha&show_icons=true&cache_seconds=1800" alt="saiharshithaudutha" /></p>
 
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=saiharshithaudutha&show_icons=true&locale=en" alt="saiharshithaudutha"/></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=SaiharshithaUdutha&show_icons=true&cache_seconds=1800" alt="saiharshithaudutha" alt="saiharshithaudutha"/></p>
 
 
