@@ -23,11 +23,16 @@
     <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer">
       <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> </p>
 
+<h2 align="center">📊 GitHub Stats</h2>
+
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SaiharshithaUdutha&show_icons=true&theme=default" />
+  <img src="https://github-readme-stats.vercel.app/api?username=SaiharshithaUdutha&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SaiharshithaUdutha&layout=compact" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SaiharshithaUdutha&layout=compact&theme=tokyonight" alt="Top Languages" />
 </p>
 
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SaiharshithaUdutha&theme=tokyonight" alt="GitHub Streak" />
+</p>
