@@ -26,7 +26,7 @@
 <h2 align="center">📊 GitHub Stats</h2>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SaiharshithaUdutha&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
+  <img src="![Stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=SaiharshithaUdutha&show_icons=true&theme=tokyonight)" alt="GitHub Stats" />
 </p>
 
 <p align="center">
